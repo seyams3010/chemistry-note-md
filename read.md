@@ -258,3 +258,76 @@ Hydrogen ion concentration of a solution is called pH. It is defined as the nega
 \[ \text{pH} = -\log_{10} [\text{H}^+] \]
 
 ---
+
+
+
+
+## Colligative Properties
+
+Dilute solutions containing non-volatile solute exhibit the following properties:
+1) Lowering of vapour pressure
+2) Elevation of boiling point
+3) Depression of freezing point
+4) Osmosis pressure
+
+Above properties are closely related to each other through a common explanation and called colligative properties (Greek colligatus - collected together).
+
+A colligative property may be termed as one which depends on the number of particles in solution and not in any way on the size of or chemical nature of the particles.
+
+Lowering of vapour pressure:
+Raoult's law states that the relative lowering of the vapour pressure of a dilute solution is equal to the mole fraction of the solute present in dilute solution.
+
+---
+
+
+The vapour pressure of a pure solvent is decreased when a non-volatile solute is dissolved in it. If \( P \) is the V.P. of the solvent and \( P_s \) that of the solution, the lowering of V.P. is \( P - P_s \). Thus,
+
+\[ \text{Relative lowering of V.P} = \frac{P - P_s}{P} \]
+
+Then according to Raoult's law, Raoult's Law can be expressed mathematically in the form:
+
+\[ \frac{P - P_s}{P} = \frac{n}{n + N} \]
+
+where \( n \) = number of moles of solute
+\( N \) = number of moles of solvent
+
+Calculate the relative V.P. lowering caused by the addition of 100 gm of sucrose (molecular mass 342) to 1000 g of water if the V.P. of pure water at 20°C is 23.8 mm Hg.
+
+Solution: According to Raoult's law,
+
+\[ \frac{P - P_s}{P} = \frac{\Delta P}{P} = \frac{n}{n + N} \]
+
+where \( \Delta P \) = lowering of V.P.
+\( P \) = V.P. of water = 23.8 mm Hg
+\( n \) = moles of sucrose = \(\frac{100}{342} = 0.292\) mole
+\( N \) = moles of water = \(\frac{1000}{18} = 55.5\) moles
+
+Substituting values in equation (1):
+
+\[ \frac{\Delta P}{23.8} = \frac{0.292}{0.292 + 55.5} \]
+
+\[ \frac{\Delta P}{23.8} = \frac{0.292}{55.792} \]
+
+\[ \Delta P = 0.125 \text{ mm Hg} \]
+
+Thus lowering of V.P. = 0.125 mm Hg.
+
+---
+
+
+
+A solution which obeys Raoult's law strictly is called an Ideal Solution. A solution which shows deviation from Raoult's is called a Non-ideal or Real Solution.
+
+Suppose the molecules of the solvent and solute are represented by \( A \) and \( B \) respectively. Now let \( \gamma_{AB} \) be the attractive force between \( A \) and \( B \) and \( \gamma_{AA} \) between \( A \) and \( A \). If
+
+\[ \gamma_{AB} = \gamma_{AA} \]
+
+Then the solution will show the same vapour pressure as predicted by Raoult's law and it is an ideal solution. However, if
+
+\[ \gamma_{AB} < \gamma_{AA} \]
+
+molecules \( A \) will escape less readily and the V.P. will be less than that predicted by Raoult's law (Negative deviation). On the other hand, if
+
+\[ \gamma_{AB} > \gamma_{AA} \]
+
+---
